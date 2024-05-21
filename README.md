@@ -10,6 +10,8 @@ use case: if the nft you want to bridge to base doesn't have a contract on base
 2. enter the exact same token name
 3. enter the exact same token ticker
 
+if your nft is already deployed on base, this will fail
+
 ## bridge
 the bridge functionality allows you to bridge a token from eth to base
 1. enter the eth contract address
