@@ -6,7 +6,7 @@ this is currently a testnet version
 ## deploy
 the deploy functionality means deploying the eth nft contract on base bridge
 
-use case: if the nft you want to bridge to base doesn't have a contract on base
+use case: if the nft you want to bridge to base doesn't have a contract (is not deployed) on base
 
 1. enter the eth contract address
 2. enter the exact same token name
