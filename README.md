@@ -16,6 +16,7 @@ the bridge functionality allows you to bridge a token from eth to base
 3. enter the destination contract address (contract address for the same eth token on base)
 
 this is an attempt to build a truly permissionless bridge
+
 if your nft is not deployed on base but you want to bridge it, feel free to do it yourself!
 
 [ChainBind](chainbind.xyz)
