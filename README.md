@@ -20,5 +20,8 @@ this is an attempt to build a truly permissionless bridge
 if your nft is not deployed on base but you want to bridge it, feel free to do it yourself!
 
 [ChainBind](https://www.chainbind.xyz)
+
+
 for testnet, we have also added an eth nft with it's base pair. feel free to mint it and try the bridge!
+
 [sepolia faucet](https://www.alchemy.com/faucets/ethereum-sepolia)
